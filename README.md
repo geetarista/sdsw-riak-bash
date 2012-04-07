@@ -56,9 +56,9 @@ gem install riak-client json
 
 Learn more Riak:
 
-[Riak Documentation](http://wiki.basho.com/)
-[API Documentation](http://wiki.basho.com/HTTP-API.html)
-[Riak Handbook](http://riakhandbook.com/)
+* [Riak Documentation](http://wiki.basho.com/)
+* [API Documentation](http://wiki.basho.com/HTTP-API.html)
+* [Riak Handbook](http://riakhandbook.com/)
 
 ## License
 
